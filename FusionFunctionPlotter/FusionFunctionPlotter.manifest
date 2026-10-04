@@ -1,0 +1,11 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "addin",
+  "author": "hggst",
+  "description": {
+    "": "Plot functions in the active sketch: four function types, equal arc-length sampling, live point count, Line Segments or Fit Point Spline. More than 200 points triggers a warning without blocking generation."
+  },
+  "version": "1.0.1",
+  "runOnStartup": false,
+  "supportedOS": "windows|mac"
+}
